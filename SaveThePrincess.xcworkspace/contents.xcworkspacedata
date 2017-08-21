@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Wall+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Wall+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Soldier+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Soldier+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:SaveThePrincess.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>

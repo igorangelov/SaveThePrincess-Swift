@@ -1,0 +1,6 @@
+framework module Pods_SaveThePrincessUITests {
+  umbrella header "Pods-SaveThePrincessUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
