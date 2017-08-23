@@ -26,7 +26,7 @@
 		426D415C1F419833003677A4 /* SaveThePrincessUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 426D415B1F419833003677A4 /* SaveThePrincessUITests.swift */; };
 		426D416A1F419D4D003677A4 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 426D41691F419D4D003677A4 /* Constants.swift */; };
 		523A00391F4B71C8009E15DF /* StringEntension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 523A00381F4B71C8009E15DF /* StringEntension.swift */; };
-		523A007A1F4B86D6009E15DF /* Array+Shuffle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 523A00791F4B86D6009E15DF /* Array+Shuffle.swift */; };
+		5256F4611F4D632A008F3722 /* Array+Shuffle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5256F4601F4D632A008F3722 /* Array+Shuffle.swift */; };
 		9D502E5DC9C9A2A1409D7253 /* Pods_SaveThePrincessTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA4EDD18D9920C35A31BBFC4 /* Pods_SaveThePrincessTests.framework */; };
 /* End PBXBuildFile section */
 
@@ -71,7 +71,7 @@
 		426D415D1F419833003677A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		426D41691F419D4D003677A4 /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		523A00381F4B71C8009E15DF /* StringEntension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StringEntension.swift; sourceTree = "<group>"; };
-		523A00791F4B86D6009E15DF /* Array+Shuffle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Array+Shuffle.swift"; path = "../../../../Downloads/5e3c7d8c2099a3fe8dc3-5bfb6859489fbeb990acea9b65a1ebb1f4891cd1 2/Array+Shuffle.swift"; sourceTree = "<group>"; };
+		5256F4601F4D632A008F3722 /* Array+Shuffle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Array+Shuffle.swift"; sourceTree = "<group>"; };
 		82475560741F2487EE6F98BC /* Pods-SaveThePrincessTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SaveThePrincessTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SaveThePrincessTests/Pods-SaveThePrincessTests.debug.xcconfig"; sourceTree = "<group>"; };
 		AC5DB858B278DAF786F65999 /* Pods-SaveThePrincess.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SaveThePrincess.release.xcconfig"; path = "Pods/Target Support Files/Pods-SaveThePrincess/Pods-SaveThePrincess.release.xcconfig"; sourceTree = "<group>"; };
 		BA9D0B86CCEFFC147B3CD892 /* Pods_SaveThePrincessUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SaveThePrincessUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -123,7 +123,7 @@
 		42230D871F447FA70022BAEC /* Helper */ = {
 			isa = PBXGroup;
 			children = (
-				523A00791F4B86D6009E15DF /* Array+Shuffle.swift */,
+				5256F4601F4D632A008F3722 /* Array+Shuffle.swift */,
 				426D41691F419D4D003677A4 /* Constants.swift */,
 				422C1B5E1F4A371900FFC034 /* ColorsHexData.swift */,
 				523A00381F4B71C8009E15DF /* StringEntension.swift */,
@@ -515,7 +515,7 @@
 				523A00391F4B71C8009E15DF /* StringEntension.swift in Sources */,
 				42230D8B1F45B6E80022BAEC /* SoldierCell.swift in Sources */,
 				42318B6A1F41DC6B00ACF527 /* AddCell.swift in Sources */,
-				523A007A1F4B86D6009E15DF /* Array+Shuffle.swift in Sources */,
+				5256F4611F4D632A008F3722 /* Array+Shuffle.swift in Sources */,
 				426D413C1F419833003677A4 /* MasterViewController.swift in Sources */,
 				426D413E1F419833003677A4 /* DetailViewController.swift in Sources */,
 				422C1B5F1F4A371900FFC034 /* ColorsHexData.swift in Sources */,
